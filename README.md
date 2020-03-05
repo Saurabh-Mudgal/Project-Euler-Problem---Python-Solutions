@@ -1,5 +1,5 @@
 # Project Euler Solutions - Python
-This repository consists an exhaustive list of source codes of my solutions (coded in python) for problems published on [Project Euler](https://projecteuler.net/archives){:target="_blank" rel="noopener"}._
+This repository consists an exhaustive list of source codes of my solutions (coded in python) for problems published on [Project Euler](https://projecteuler.net/archives).
 My aim is merely to provide convenience to those starting out with python and promote new coders to persevere through the learning curve. I would still advise you to at least attempt solving the respective problems on your own to experience the serendipity that coders feel when they solve a problem. It's the best drug in the world and will keep you motivated and inspired to do more.
 
 
