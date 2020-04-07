@@ -100,7 +100,7 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 
 
 
-## Problem 8
+## Problem 9
 ### Special Pythagorean Triplet
 A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
 
